@@ -1,4 +1,4 @@
-Paste this into the README editor:
+
 # Superstore Sales Analysis
 
 ## Overview
